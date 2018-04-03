@@ -1,6 +1,6 @@
 # hw6
 ## Содержание
-[Часть 1]
+[Часть 1](https://github.com/m1riada/hw6/blob/master/README.md#%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1)
 # Часть 1
 ## 1. 10 самых частотных продолжений фразы "due to the"
 
