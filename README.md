@@ -40,4 +40,4 @@
 
 ## 3. Бонусное Задание
 
-![task2.3]()
+![task2.3](https://github.com/m1riada/hw6/blob/6f9d0eb96ecb745cf07fa30e9b26231b0503c214/2.3_task.png)
