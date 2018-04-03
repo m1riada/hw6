@@ -46,4 +46,4 @@ Trends for "essays", BNC:
 
 Trends for "essays", Ngram:
 
-![task2.3]()
+![task2.3](https://github.com/m1riada/hw6/blob/master/2.3.png)
