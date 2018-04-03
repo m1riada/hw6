@@ -27,7 +27,7 @@
 
 В этом задании я стравнивала синонимы "have" и "own".
 
-![task2.2]()
+![task2.2](https://github.com/m1riada/hw6/blob/master/2.2_task.png)
 
 ## 3. Бонусное Задание
 
