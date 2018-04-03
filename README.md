@@ -21,7 +21,7 @@
 
 ## 1. Три самых частотных модификатора (modifiers) существительного question.
 
-![task2.1]()
+![task2.1](https://github.com/m1riada/hw6/blob/master/2.1_task.png)
 
 ## 2. Два синонимичных глагола
 
